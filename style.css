@@ -23,6 +23,14 @@ body {
   margin-bottom: 2.5rem;
 }
 
+.avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+  filter: drop-shadow(0 0 12px rgba(88, 166, 255, 0.3));
+}
+
 .title {
   font-size: 2rem;
   font-weight: 700;
