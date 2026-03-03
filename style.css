@@ -50,6 +50,13 @@ body {
 .subtitle {
   margin-top: 0.5rem;
   font-size: 0.95rem;
+  color: #000;
+  font-weight: 300;
+}
+
+.description {
+  margin-top: 0.3rem;
+  font-size: 0.85rem;
   color: #4a6a7a;
   font-weight: 300;
 }
