@@ -75,11 +75,11 @@
     {
       "position": 42,
       "name": "MapToPoster",
-      "category": "project",
+      "category": "website",
       "color": "#474a4d",
-      "description": "城市地圖海報產生器，輸入任意城市即可產生極簡風格的街道網路海報，支援多種配色方案。",
-      "tech": ["Python", "OSMnx", "Matplotlib"],
-      "url": "",
+      "description": "城市地圖海報產生器，輸入任意城市即可產生極簡風格的街道網路海報。前後端分離架構：後端擷取 OpenStreetMap 路網資料即時渲染，前端提供 16 種主題配色與即時預覽，支援多語系城市名稱。",
+      "tech": ["FastAPI", "OSMnx", "Matplotlib", "Railway", "Netlify"],
+      "url": "https://cool-map-poster.netlify.app",
       "completed": "2025-09"
     },
     {
