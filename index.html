@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Epic's Vibe Coding Wall</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <h1 class="title">Epic's Vibe Coding Wall</h1>
+    <p class="subtitle">每一格，都是一段 vibe coding 的旅程</p>
+  </header>
+
+  <!-- Grid -->
+  <main class="grid-container">
+    <div class="grid" id="grid"></div>
+  </main>
+
+  <!-- Stats -->
+  <footer class="stats">
+    <span class="stats-text">
+      <span id="lit-count">0</span> / 100 已點亮
+    </span>
+    <div class="stats-bar">
+      <div class="stats-bar-fill" id="stats-bar-fill"></div>
+    </div>
+  </footer>
+
+  <!-- Modal -->
+  <div class="modal-overlay" id="modal-overlay">
+    <div class="modal" id="modal">
+      <button class="modal-close" id="modal-close">&times;</button>
+      <div class="modal-badge" id="modal-badge"></div>
+      <h2 class="modal-title" id="modal-title"></h2>
+      <p class="modal-description" id="modal-description"></p>
+      <div class="modal-tech" id="modal-tech"></div>
+      <div class="modal-footer">
+        <span class="modal-date" id="modal-date"></span>
+        <a class="modal-link" id="modal-link" href="#" target="_blank" rel="noopener">前往查看 &rarr;</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Tooltip -->
+  <div class="tooltip" id="tooltip"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>

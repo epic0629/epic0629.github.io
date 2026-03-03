@@ -1,0 +1,186 @@
+{
+  "title": "Epic's Vibe Coding Wall",
+  "subtitle": "每一格，都是一段 vibe coding 的旅程",
+  "cells": [
+    {
+      "position": 2,
+      "name": "AI Tools Portal",
+      "category": "website",
+      "color": "#4288B9",
+      "description": "AI 工具導覽網站，整合推薦 AI 工具、Chrome 擴充功能與提示詞庫，支援關鍵字搜尋。",
+      "tech": ["Next.js", "Supabase", "TailwindCSS"],
+      "url": "https://ai-tools-portal.netlify.app",
+      "completed": "2025-10"
+    },
+    {
+      "position": 7,
+      "name": "Agent Dashboard",
+      "category": "website",
+      "color": "#f0883e",
+      "description": "直售處業務人員分析儀表板，整合多維度績效數據與視覺化圖表，輔助營運決策。",
+      "tech": ["Svelte", "Chart.js", "Vite"],
+      "url": "",
+      "completed": "2025-12"
+    },
+    {
+      "position": 14,
+      "name": "AgentMap",
+      "category": "website",
+      "color": "#E93939",
+      "description": "台灣旅行社門市地圖視覺化，爬取 10 家旅行社門市資料，Geocoding 定位後在地圖上互動展示。",
+      "tech": ["Svelte", "MapLibre GL", "Supabase"],
+      "url": "https://agentmap.netlify.app",
+      "completed": "2025-11"
+    },
+    {
+      "position": 18,
+      "name": "Travel Map Generator",
+      "category": "website",
+      "color": "#39d353",
+      "description": "旅遊地圖產生器，上傳景點清單自動產生精美旅遊路線地圖，支援多種風格匯出。",
+      "tech": ["Svelte", "MapLibre GL", "html2canvas"],
+      "url": "https://travel-map-generator.netlify.app",
+      "completed": "2025-11"
+    },
+    {
+      "position": 23,
+      "name": "Where Are You",
+      "category": "website",
+      "color": "#00E5FF",
+      "description": "即時定位追蹤應用，分享位置連結讓親友在地圖上追蹤你的移動軌跡。",
+      "tech": ["Svelte", "MapLibre GL", "Supabase Edge Functions"],
+      "url": "",
+      "completed": "2026-01"
+    },
+    {
+      "position": 31,
+      "name": "Wholesale Map",
+      "category": "website",
+      "color": "#8b949e",
+      "description": "批發旅遊地圖視覺化工具，展示批發通路據點分佈與區域覆蓋分析。",
+      "tech": ["Svelte", "Vite"],
+      "url": "https://wholesale-map.netlify.app",
+      "completed": "2025-12"
+    },
+    {
+      "position": 36,
+      "name": "Meeting Agenda Generator",
+      "category": "website",
+      "color": "#203744",
+      "description": "會議議程自動產生器，快速建立結構化會議議程並匯出分享。",
+      "tech": ["Svelte", "Vite"],
+      "url": "",
+      "completed": "2026-02"
+    },
+    {
+      "position": 42,
+      "name": "MapToPoster",
+      "category": "project",
+      "color": "#474a4d",
+      "description": "城市地圖海報產生器，輸入任意城市即可產生極簡風格的街道網路海報，支援多種配色方案。",
+      "tech": ["Python", "OSMnx", "Matplotlib"],
+      "url": "",
+      "completed": "2025-09"
+    },
+    {
+      "position": 47,
+      "name": "APP Travel Map Generator",
+      "category": "project",
+      "color": "#dcdddd",
+      "description": "旅遊地圖桌面版應用，上傳 Google Map 截圖後 AI 自動辨識地點並繪製旅遊路線。",
+      "tech": ["Python", "OpenAI Vision", "Tkinter"],
+      "url": "",
+      "completed": "2025-10"
+    },
+    {
+      "position": 53,
+      "name": "NovelTranslator",
+      "category": "project",
+      "color": "#d2a8ff",
+      "description": "小說自動下載翻譯工具，爬取日文小說章節後自動翻譯為繁體中文。",
+      "tech": ["Python", "BeautifulSoup", "Translator API"],
+      "url": "",
+      "completed": "2025-08"
+    },
+    {
+      "position": 56,
+      "name": "SmartTranslator",
+      "category": "project",
+      "color": "#56d4dd",
+      "description": "NovelTranslator 進階版，使用 GPT-4o-mini 翻譯並整合術語庫管理，確保人名地名翻譯一致性。",
+      "tech": ["Python", "OpenAI API", "JSON 術語庫"],
+      "url": "",
+      "completed": "2025-11"
+    },
+    {
+      "position": 61,
+      "name": "Chrome OpenAI Translator",
+      "category": "project",
+      "color": "#4ade80",
+      "description": "Chrome 瀏覽器翻譯擴充套件，使用 OpenAI API 支援全網頁翻譯或選取內容翻譯。",
+      "tech": ["JavaScript", "Chrome Extension", "OpenAI API"],
+      "url": "",
+      "completed": "2025-10"
+    },
+    {
+      "position": 65,
+      "name": "EVAA Simulator",
+      "category": "project",
+      "color": "#ffa657",
+      "description": "EVAA 語音 AI 客服模擬器，模擬來電情境測試意圖分類與 ACD 分流邏輯。",
+      "tech": ["HTML", "JavaScript", "EVOX API"],
+      "url": "",
+      "completed": "2025-12"
+    },
+    {
+      "position": 72,
+      "name": "Dashboard",
+      "category": "project",
+      "color": "#ff7b72",
+      "description": "AI 使用量監控儀表板，追蹤 Claude 等 AI 服務的 Token 消耗量與成本趨勢。",
+      "tech": ["HTML", "JavaScript", "Chart.js"],
+      "url": "",
+      "completed": "2026-01"
+    },
+    {
+      "position": 77,
+      "name": "Knowledge Graph",
+      "category": "project",
+      "color": "#223a70",
+      "description": "個人知識圖譜系統，將 Notion 筆記轉化為 Neo4j 圖譜，支援概念關聯探索與視覺化瀏覽。",
+      "tech": ["Neo4j", "FastAPI", "React", "Vite"],
+      "url": "",
+      "completed": "2026-01"
+    },
+    {
+      "position": 84,
+      "name": "Enterprise KG",
+      "category": "project",
+      "color": "#f1e05a",
+      "description": "企業知識圖譜，分析雄獅旅遊出團訂單與同行統計，建構組織知識網路與互動式探索介面。",
+      "tech": ["Neo4j", "FastAPI", "React", "Cytoscape.js"],
+      "url": "",
+      "completed": "2026-02"
+    },
+    {
+      "position": 90,
+      "name": "Jessica Vault",
+      "category": "project",
+      "color": "#f6bfbc",
+      "description": "智慧蒸餾系統，跨裝置協作的 Obsidian 知識庫，將日常工作經驗萃取為可複用的智慧結晶。",
+      "tech": ["Obsidian", "GitHub", "Multi-Agent"],
+      "url": "",
+      "completed": "2026-02"
+    },
+    {
+      "position": 95,
+      "name": "LiLi LINE Theme",
+      "category": "project",
+      "color": "#06C755",
+      "description": "LiLi 智能客服 LINE 主題包，為雄獅旅遊 AI 客服 LiLi 設計專屬的 LINE 聊天室主題。",
+      "tech": ["Python", "LINE Theme Creator"],
+      "url": "",
+      "completed": "2025-12"
+    }
+  ]
+}
