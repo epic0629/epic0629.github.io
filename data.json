@@ -103,6 +103,16 @@
       "completed": "2026-02"
     },
     {
+      "position": 50,
+      "name": "Wa-iro 和色配色",
+      "category": "website",
+      "color": "#B19693",
+      "description": "日本傳統色（和色）配色網站，整合 579 色和色辭典（colordic + nipponcolors），提供 10 組情境主題與 4 種配色理論智能推薦。",
+      "tech": ["Svelte", "Vite", "Netlify"],
+      "url": "https://wa-iro-colors.netlify.app",
+      "completed": "2026-03"
+    },
+    {
       "position": 53,
       "name": "NovelTranslator",
       "category": "project",
