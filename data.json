@@ -93,6 +93,16 @@
       "completed": "2025-10"
     },
     {
+      "position": 49,
+      "name": "Audio Transcriber",
+      "category": "project",
+      "color": "#10B981",
+      "description": "語音逐字稿轉錄器，上傳音檔後自動透過 OpenAI Whisper 轉錄，再由 Gemini AI 潤稿並辨識多位發言者。",
+      "tech": ["HTML", "JavaScript", "OpenAI API", "Gemini API"],
+      "url": "https://audio-transcriber-tool.netlify.app",
+      "completed": "2026-02"
+    },
+    {
       "position": 53,
       "name": "NovelTranslator",
       "category": "project",
