@@ -113,6 +113,16 @@
       "completed": "2026-03"
     },
     {
+      "position": 51,
+      "name": "Google Review 地圖",
+      "category": "website",
+      "color": "#E60012",
+      "description": "雄獅旅遊 32 個直售處據點的 Google 評論地圖儀表板，整合 Supabase 資料庫與 Leaflet 互動地圖，支援分區篩選、時間範圍切換與評論詳情瀏覽。",
+      "tech": ["Svelte 5", "Leaflet", "Supabase", "Vite 7"],
+      "url": "https://google-reviews-dashboard.netlify.app",
+      "completed": "2026-03"
+    },
+    {
       "position": 53,
       "name": "NovelTranslator",
       "category": "project",
