@@ -123,6 +123,16 @@
       "completed": "2026-03"
     },
     {
+      "position": 62,
+      "name": "AI Observatory",
+      "category": "project",
+      "color": "#0EA5E9",
+      "description": "多平台 AI 用量監控儀表板，整合 Claude、Antigravity、Codex、OpenRouter、OpenAI API、Apify、Railway 七大服務，自動追蹤 quota/credit/usage。OpenAI 透過 Admin Key Costs API 計算餘額。",
+      "tech": ["HTML", "JavaScript", "Python", "OpenAI Admin API"],
+      "url": "",
+      "completed": "2026-03"
+    },
+    {
       "position": 53,
       "name": "NovelTranslator",
       "category": "project",
