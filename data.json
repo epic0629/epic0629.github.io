@@ -23,6 +23,16 @@
       "completed": "2025-12"
     },
     {
+      "position": 12,
+      "name": "NA Weekly Report",
+      "category": "website",
+      "color": "#FF6B35",
+      "description": "北美線週報自動化網站，整合業績數據與視覺化圖表，快速產出結構化週報。",
+      "tech": ["HTML", "JavaScript", "Netlify"],
+      "url": "https://na-weekly-report.netlify.app/",
+      "completed": "2026-03"
+    },
+    {
       "position": 14,
       "name": "AgentMap",
       "category": "website",
