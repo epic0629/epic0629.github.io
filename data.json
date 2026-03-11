@@ -231,6 +231,16 @@
       "tech": ["Python", "LINE Theme Creator"],
       "url": "",
       "completed": "2025-12"
+    },
+    {
+      "position": 67,
+      "name": "LiLi 主管報告",
+      "category": "website",
+      "color": "#F5B199",
+      "description": "LiLi 智能客服延長服務時段建議報告，整合 Power BI 數據與真人客服 rawdata，以視覺化圖表呈現夜間商機與營收潛力。",
+      "tech": ["HTML", "JavaScript", "Playwright"],
+      "url": "https://lili-manager-report.netlify.app",
+      "completed": "2026-03"
     }
   ]
 }
