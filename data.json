@@ -100,16 +100,7 @@
       "description": "LiLi 智能客服 FAQ 知識庫管理網站，整合 Google Sheets 即時讀寫，提供儀表板統計、卡片式瀏覽、Modal 編輯回寫功能。",
       "tech": ["Svelte 5", "Chart.js", "Google Apps Script", "Netlify"],
       "url": "https://lili-faq-management.netlify.app",
-      "completed": "2026-03"
-    },
-    {
-      "position": 43,
-      "name": "FAQ 管理系統",
-      "category": "website",
-      "color": "#CCA6BF",
-      "description": "LiLi 智能客服 FAQ 知識庫管理網站，整合 Google Sheets 即時讀寫，提供儀表板統計、卡片式瀏覽、Modal 編輯回寫功能。",
-      "tech": ["Svelte 5", "Chart.js", "Google Apps Script", "Netlify"],
-      "url": "https://lili-faq-management.netlify.app",
+      "linkDisabled": true,
       "completed": "2026-03"
     },
     {
@@ -260,6 +251,7 @@
       "description": "LiLi 智能客服延長服務時段建議報告，整合 Power BI 數據與真人客服 rawdata，以視覺化圖表呈現夜間商機與營收潛力。",
       "tech": ["HTML", "JavaScript", "Playwright"],
       "url": "https://lili-manager-report.netlify.app",
+      "linkDisabled": true,
       "completed": "2026-03"
     }
   ]

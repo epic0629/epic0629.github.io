@@ -109,9 +109,19 @@
 
     // Link
     const link = document.getElementById('modal-link');
-    if (data.url) {
+    if (data.url && !data.linkDisabled) {
       link.href = data.url;
+      link.classList.remove('hidden', 'disabled');
+      link.style.pointerEvents = '';
+      link.style.opacity = '';
+      link.style.color = '';
+    } else if (data.url && data.linkDisabled) {
+      link.href = '#';
       link.classList.remove('hidden');
+      link.classList.add('disabled');
+      link.style.pointerEvents = 'none';
+      link.style.opacity = '0.4';
+      link.style.color = '#666';
     } else {
       link.classList.add('hidden');
     }
