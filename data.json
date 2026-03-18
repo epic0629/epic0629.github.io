@@ -204,6 +204,16 @@
       "completed": "2026-01"
     },
     {
+      "position": 74,
+      "name": "EVOX 異常追蹤",
+      "category": "website",
+      "color": "#2F5D50",
+      "description": "EVOX 雲端電話系統異常事件追蹤報表，透過Line紀錄對話過程、跨部門回報與廠商協調進度。",
+      "tech": ["HTML", "LINE", "Netlify"],
+      "url": "",
+      "completed": "2026-03"
+    },
+    {
       "position": 77,
       "name": "Knowledge Graph",
       "category": "project",
