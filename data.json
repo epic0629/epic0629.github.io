@@ -263,6 +263,17 @@
       "url": "https://lili-manager-report.netlify.app",
       "linkDisabled": true,
       "completed": "2026-03"
+    },
+    {
+      "position": 73,
+      "name": "直售處組織圖",
+      "category": "website",
+      "color": "#516E41",
+      "description": "直售處互動式組織圖網站，雙頁籤呈現：一頁式地理區域概況表 + 可展開收合的人事樹狀圖，支援即時搜尋定位與高亮。",
+      "tech": ["HTML", "JavaScript", "Netlify"],
+      "url": "https://lion-org-chart.netlify.app",
+      "linkDisabled": true,
+      "completed": "2026-03"
     }
   ]
 }
