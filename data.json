@@ -274,6 +274,16 @@
       "url": "https://lion-org-chart.netlify.app",
       "linkDisabled": true,
       "completed": "2026-03"
+    },
+    {
+      "position": 99,
+      "name": "Color Annotator",
+      "category": "website",
+      "color": "#C39143",
+      "description": "圖片色彩標註工具，上傳圖片後自動辨識主色調，支援手動取色、色碼標註與匯出，標註系統具備智慧避讓算法。",
+      "tech": ["Svelte", "K-Means", "Canvas API", "Netlify"],
+      "url": "https://color-annotator.netlify.app",
+      "completed": "2026-03"
     }
   ]
 }
