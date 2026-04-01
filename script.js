@@ -87,10 +87,16 @@
 
     // Badge
     const badge = document.getElementById('modal-badge');
-    const isWebsite = data.category === 'website';
-    badge.textContent = isWebsite ? 'Website' : 'Project';
-    badge.style.background = isWebsite ? '#1a3a2a' : '#1a2a3a';
-    badge.style.color = isWebsite ? '#4ade80' : '#58a6ff';
+    const cat = data.category || 'project';
+    const catMap = {
+      website: { label: 'WEBSITE', bg: '#1a3a2a', color: '#4ade80' },
+      skill:   { label: 'SKILL',   bg: '#2a1a3a', color: '#c084fc' },
+      project: { label: 'PROJECT', bg: '#1a2a3a', color: '#58a6ff' }
+    };
+    const catStyle = catMap[cat] || catMap.project;
+    badge.textContent = catStyle.label;
+    badge.style.background = catStyle.bg;
+    badge.style.color = catStyle.color;
 
     // Tech tags
     const techContainer = document.getElementById('modal-tech');
