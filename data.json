@@ -8,7 +8,11 @@
       "category": "skill",
       "color": "#2CA9E1",
       "description": "直售處超級知識中樞 — 組織架構、KPI體系、17子Skill路由、訂購流程、進單節奏分析、2026策略方向、12專案DB。Hub+Spoke架構的核心。",
-      "tech": ["Skill", "Notion MCP", "Chart.js"],
+      "tech": [
+        "Skill",
+        "Notion MCP",
+        "Chart.js"
+      ],
       "url": "",
       "completed": "2026-04"
     },
@@ -18,7 +22,11 @@
       "category": "website",
       "color": "#4288B9",
       "description": "AI 工具導覽網站，整合推薦 AI 工具、Chrome 擴充功能與提示詞庫，支援關鍵字搜尋。",
-      "tech": ["Next.js", "Supabase", "TailwindCSS"],
+      "tech": [
+        "Next.js",
+        "Supabase",
+        "TailwindCSS"
+      ],
       "url": "https://ai-tools-portal.netlify.app",
       "completed": "2025-10"
     },
@@ -28,7 +36,11 @@
       "category": "website",
       "color": "#f0883e",
       "description": "直售處業務人員分析儀表板，整合多維度績效數據與視覺化圖表，輔助營運決策。",
-      "tech": ["Svelte", "Chart.js", "Vite"],
+      "tech": [
+        "Svelte",
+        "Chart.js",
+        "Vite"
+      ],
       "url": "",
       "completed": "2025-12"
     },
@@ -38,7 +50,11 @@
       "category": "website",
       "color": "#FF6B35",
       "description": "北美線週報自動化網站，整合業績數據與視覺化圖表，快速產出結構化週報。",
-      "tech": ["HTML", "JavaScript", "Netlify"],
+      "tech": [
+        "HTML",
+        "JavaScript",
+        "Netlify"
+      ],
       "url": "https://na-weekly-report.netlify.app/",
       "completed": "2026-03"
     },
@@ -48,7 +64,11 @@
       "category": "website",
       "color": "#E93939",
       "description": "台灣旅行社門市地圖視覺化，爬取 10 家旅行社門市資料，Geocoding 定位後在地圖上互動展示。",
-      "tech": ["Svelte", "MapLibre GL", "Supabase"],
+      "tech": [
+        "Svelte",
+        "MapLibre GL",
+        "Supabase"
+      ],
       "url": "https://agentmap.netlify.app",
       "completed": "2025-11"
     },
@@ -58,7 +78,11 @@
       "category": "website",
       "color": "#39d353",
       "description": "旅遊地圖產生器，上傳景點清單自動產生精美旅遊路線地圖，支援多種風格匯出。",
-      "tech": ["Svelte", "MapLibre GL", "html2canvas"],
+      "tech": [
+        "Svelte",
+        "MapLibre GL",
+        "html2canvas"
+      ],
       "url": "https://travel-map-generator.netlify.app",
       "completed": "2025-11"
     },
@@ -68,7 +92,11 @@
       "category": "website",
       "color": "#00E5FF",
       "description": "即時定位追蹤應用，分享位置連結讓親友在地圖上追蹤你的移動軌跡。",
-      "tech": ["Svelte", "MapLibre GL", "Supabase Edge Functions"],
+      "tech": [
+        "Svelte",
+        "MapLibre GL",
+        "Supabase Edge Functions"
+      ],
       "url": "",
       "completed": "2026-01"
     },
@@ -78,7 +106,10 @@
       "category": "website",
       "color": "#8b949e",
       "description": "批發旅遊地圖視覺化工具，展示批發通路據點分佈與區域覆蓋分析。",
-      "tech": ["Svelte", "Vite"],
+      "tech": [
+        "Svelte",
+        "Vite"
+      ],
       "url": "https://wholesale-map.netlify.app",
       "completed": "2025-12"
     },
@@ -88,7 +119,10 @@
       "category": "website",
       "color": "#203744",
       "description": "會議議程自動產生器，快速建立結構化會議議程並匯出分享。",
-      "tech": ["Svelte", "Vite"],
+      "tech": [
+        "Svelte",
+        "Vite"
+      ],
       "url": "",
       "completed": "2026-02"
     },
@@ -98,7 +132,13 @@
       "category": "website",
       "color": "#474a4d",
       "description": "城市地圖海報產生器，輸入任意城市即可產生極簡風格的街道網路海報。前後端分離架構：後端擷取 OpenStreetMap 路網資料即時渲染，前端提供 16 種主題配色與即時預覽，支援多語系城市名稱。",
-      "tech": ["FastAPI", "OSMnx", "Matplotlib", "Railway", "Netlify"],
+      "tech": [
+        "FastAPI",
+        "OSMnx",
+        "Matplotlib",
+        "Railway",
+        "Netlify"
+      ],
       "url": "https://cool-map-poster.netlify.app",
       "completed": "2025-09"
     },
@@ -108,7 +148,12 @@
       "category": "website",
       "color": "#E79460",
       "description": "LiLi 智能客服 FAQ 知識庫管理網站，整合 Google Sheets 即時讀寫，提供儀表板統計、卡片式瀏覽、Modal 編輯回寫功能。",
-      "tech": ["Svelte 5", "Chart.js", "Google Apps Script", "Netlify"],
+      "tech": [
+        "Svelte 5",
+        "Chart.js",
+        "Google Apps Script",
+        "Netlify"
+      ],
       "url": "https://lili-faq-management.netlify.app",
       "linkDisabled": true,
       "completed": "2026-03"
@@ -119,7 +164,11 @@
       "category": "project",
       "color": "#dcdddd",
       "description": "旅遊地圖桌面版應用，上傳 Google Map 截圖後 AI 自動辨識地點並繪製旅遊路線。",
-      "tech": ["Python", "OpenAI Vision", "Tkinter"],
+      "tech": [
+        "Python",
+        "OpenAI Vision",
+        "Tkinter"
+      ],
       "url": "",
       "completed": "2025-10"
     },
@@ -129,7 +178,11 @@
       "category": "project",
       "color": "#10B981",
       "description": "語音逐字稿轉錄器，上傳音檔後自動透過 OpenAI Whisper 轉錄為逐字稿，支援多種音檔格式與大檔自動分段。",
-      "tech": ["HTML", "JavaScript", "OpenAI API"],
+      "tech": [
+        "HTML",
+        "JavaScript",
+        "OpenAI API"
+      ],
       "url": "https://audio-transcriber-tool.netlify.app",
       "completed": "2026-02"
     },
@@ -139,7 +192,11 @@
       "category": "website",
       "color": "#B19693",
       "description": "日本傳統色（和色）配色網站，整合 579 色和色辭典（colordic + nipponcolors），提供 10 組情境主題與 4 種配色理論智能推薦。",
-      "tech": ["Svelte", "Vite", "Netlify"],
+      "tech": [
+        "Svelte",
+        "Vite",
+        "Netlify"
+      ],
       "url": "https://wa-iro-colors.netlify.app",
       "completed": "2026-03"
     },
@@ -149,7 +206,12 @@
       "category": "website",
       "color": "#E60012",
       "description": "雄獅旅遊 32 個直售處據點的 Google 評論地圖儀表板，整合 Supabase 資料庫與 Leaflet 互動地圖，支援分區篩選、時間範圍切換與評論詳情瀏覽。",
-      "tech": ["Svelte 5", "Leaflet", "Supabase", "Vite 7"],
+      "tech": [
+        "Svelte 5",
+        "Leaflet",
+        "Supabase",
+        "Vite 7"
+      ],
       "url": "https://google-reviews-dashboard.netlify.app",
       "completed": "2026-03"
     },
@@ -159,7 +221,12 @@
       "category": "project",
       "color": "#0EA5E9",
       "description": "多平台 AI 用量監控儀表板，整合 Claude、Antigravity、Codex、OpenRouter、OpenAI API、Apify、Railway 七大服務，自動追蹤 quota/credit/usage。OpenAI 透過 Admin Key Costs API 計算餘額。",
-      "tech": ["HTML", "JavaScript", "Python", "OpenAI Admin API"],
+      "tech": [
+        "HTML",
+        "JavaScript",
+        "Python",
+        "OpenAI Admin API"
+      ],
       "url": "",
       "completed": "2026-03"
     },
@@ -169,7 +236,11 @@
       "category": "project",
       "color": "#d2a8ff",
       "description": "小說自動下載翻譯工具，爬取日文小說章節後自動翻譯為繁體中文。",
-      "tech": ["Python", "BeautifulSoup", "Translator API"],
+      "tech": [
+        "Python",
+        "BeautifulSoup",
+        "Translator API"
+      ],
       "url": "",
       "completed": "2025-08"
     },
@@ -179,7 +250,11 @@
       "category": "project",
       "color": "#56d4dd",
       "description": "NovelTranslator 進階版，使用 GPT-4o-mini 翻譯並整合術語庫管理，確保人名地名翻譯一致性。",
-      "tech": ["Python", "OpenAI API", "JSON 術語庫"],
+      "tech": [
+        "Python",
+        "OpenAI API",
+        "JSON 術語庫"
+      ],
       "url": "",
       "completed": "2025-11"
     },
@@ -189,7 +264,11 @@
       "category": "project",
       "color": "#4ade80",
       "description": "Chrome 瀏覽器翻譯擴充套件，使用 OpenAI API 支援全網頁翻譯或選取內容翻譯。",
-      "tech": ["JavaScript", "Chrome Extension", "OpenAI API"],
+      "tech": [
+        "JavaScript",
+        "Chrome Extension",
+        "OpenAI API"
+      ],
       "url": "",
       "completed": "2025-10"
     },
@@ -199,7 +278,11 @@
       "category": "project",
       "color": "#ffa657",
       "description": "EVAA 語音 AI 客服模擬器，模擬來電情境測試意圖分類與 ACD 分流邏輯。",
-      "tech": ["HTML", "JavaScript", "EVOX API"],
+      "tech": [
+        "HTML",
+        "JavaScript",
+        "EVOX API"
+      ],
       "url": "",
       "completed": "2025-12"
     },
@@ -209,7 +292,11 @@
       "category": "project",
       "color": "#ff7b72",
       "description": "AI 使用量監控儀表板，追蹤 Claude 等 AI 服務的 Token 消耗量與成本趨勢。",
-      "tech": ["HTML", "JavaScript", "Chart.js"],
+      "tech": [
+        "HTML",
+        "JavaScript",
+        "Chart.js"
+      ],
       "url": "",
       "completed": "2026-01"
     },
@@ -219,7 +306,11 @@
       "category": "website",
       "color": "#2F5D50",
       "description": "EVOX 雲端電話系統異常事件追蹤報表，透過Line紀錄對話過程、跨部門回報與廠商協調進度。",
-      "tech": ["HTML", "LINE", "Netlify"],
+      "tech": [
+        "HTML",
+        "LINE",
+        "Netlify"
+      ],
       "url": "",
       "completed": "2026-03"
     },
@@ -229,7 +320,12 @@
       "category": "project",
       "color": "#223a70",
       "description": "個人知識圖譜系統，將 Notion 筆記轉化為 Neo4j 圖譜，支援概念關聯探索與視覺化瀏覽。",
-      "tech": ["Neo4j", "FastAPI", "React", "Vite"],
+      "tech": [
+        "Neo4j",
+        "FastAPI",
+        "React",
+        "Vite"
+      ],
       "url": "",
       "completed": "2026-01"
     },
@@ -239,7 +335,12 @@
       "category": "project",
       "color": "#f1e05a",
       "description": "企業知識圖譜，分析雄獅旅遊出團訂單與同行統計，建構組織知識網路與互動式探索介面。",
-      "tech": ["Neo4j", "FastAPI", "React", "Cytoscape.js"],
+      "tech": [
+        "Neo4j",
+        "FastAPI",
+        "React",
+        "Cytoscape.js"
+      ],
       "url": "",
       "completed": "2026-02"
     },
@@ -249,7 +350,11 @@
       "category": "project",
       "color": "#f6bfbc",
       "description": "智慧蒸餾系統，跨裝置協作的 Obsidian 知識庫，將日常工作經驗萃取為可複用的智慧結晶。",
-      "tech": ["Obsidian", "GitHub", "Multi-Agent"],
+      "tech": [
+        "Obsidian",
+        "GitHub",
+        "Multi-Agent"
+      ],
       "url": "",
       "completed": "2026-02"
     },
@@ -259,7 +364,10 @@
       "category": "project",
       "color": "#06C755",
       "description": "LiLi 智能客服 LINE 主題包，為雄獅旅遊 AI 客服 LiLi 設計專屬的 LINE 聊天室主題。",
-      "tech": ["Python", "LINE Theme Creator"],
+      "tech": [
+        "Python",
+        "LINE Theme Creator"
+      ],
       "url": "",
       "completed": "2025-12"
     },
@@ -269,7 +377,11 @@
       "category": "website",
       "color": "#F5B199",
       "description": "LiLi 智能客服延長服務時段建議報告，整合 Power BI 數據與真人客服 rawdata，以視覺化圖表呈現夜間商機與營收潛力。",
-      "tech": ["HTML", "JavaScript", "Playwright"],
+      "tech": [
+        "HTML",
+        "JavaScript",
+        "Playwright"
+      ],
       "url": "https://lili-manager-report.netlify.app",
       "linkDisabled": true,
       "completed": "2026-03"
@@ -280,7 +392,11 @@
       "category": "website",
       "color": "#516E41",
       "description": "直售處互動式組織圖網站，雙頁籤呈現：一頁式地理區域概況表 + 可展開收合的人事樹狀圖，支援即時搜尋定位與高亮。",
-      "tech": ["HTML", "JavaScript", "Netlify"],
+      "tech": [
+        "HTML",
+        "JavaScript",
+        "Netlify"
+      ],
       "url": "https://lion-org-chart.netlify.app",
       "linkDisabled": true,
       "completed": "2026-03"
@@ -291,9 +407,55 @@
       "category": "website",
       "color": "#C39143",
       "description": "圖片色彩標註工具，上傳圖片後自動辨識主色調，支援手動取色、色碼標註與匯出，標註系統具備智慧避讓算法。",
-      "tech": ["Svelte", "K-Means", "Canvas API", "Netlify"],
+      "tech": [
+        "Svelte",
+        "K-Means",
+        "Canvas API",
+        "Netlify"
+      ],
       "url": "https://color-annotator.netlify.app",
       "completed": "2026-03"
+    },
+    {
+      "position": 26,
+      "name": "LiLi 真人客服分析",
+      "category": "skill",
+      "color": "#533D5B",
+      "description": "LiLi 轉真人客服對話分析（11 維度）——客服努力度、漏接客資、購買意圖辨識、客服促成行為、意圖流失風險。",
+      "tech": [
+        "Skill",
+        "pandas",
+        "Notion MCP"
+      ],
+      "url": "",
+      "completed": "2026-04"
+    },
+    {
+      "position": 38,
+      "name": "Power BI DAX 查詢",
+      "category": "skill",
+      "color": "#2A4073",
+      "description": "Power BI Desktop DAX query execution——直接從 PBI Desktop 執行 DAX 查詢取得數據。",
+      "tech": [
+        "Skill",
+        "Power BI",
+        "DAX"
+      ],
+      "url": "",
+      "completed": "2026-04"
+    },
+    {
+      "position": 58,
+      "name": "BIF 資訊流解析",
+      "category": "skill",
+      "color": "#6699A1",
+      "description": "解析 BIF 資訊流圖表，產出結構化表格——將圖形化的資訊流轉換為可分析的數據。",
+      "tech": [
+        "Skill",
+        "Parser"
+      ],
+      "url": "",
+      "completed": "2026-04"
     }
   ]
 }
