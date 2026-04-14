@@ -458,6 +458,24 @@
       "completed": "2026-04"
     },
     {
+      "position": 33,
+      "name": "Event Radar",
+      "category": "website",
+      "color": "#6e4bff",
+      "description": "為朋友 Haley（行銷人）打造的實體活動案例搜尋網站。一次抓 FB Events / FB 粉專 / IG / Threads / LinkedIn 五源，Apify async scraper + Netlify Functions poll 架構繞過 10 秒 timeout，收藏雲端同步。Pastel Pop 雜誌風 UI。",
+      "tech": [
+        "Vite",
+        "React",
+        "TypeScript",
+        "Apify",
+        "Netlify Functions",
+        "Supabase"
+      ],
+      "url": "https://look-borrow-launch.netlify.app",
+      "linkDisabled": true,
+      "completed": "2026-04"
+    },
+    {
       "position": 75,
       "name": "EVOX 低分案件日報",
       "category": "project",
