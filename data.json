@@ -456,6 +456,21 @@
       ],
       "url": "",
       "completed": "2026-04"
+    },
+    {
+      "position": 75,
+      "name": "EVOX 低分案件日報",
+      "category": "project",
+      "color": "#1B813E",
+      "description": "雄獅客服低分話後評分案件每日自動分析報告。n8n + Supabase + GPT 5.4 語意分析，將 LINE 群組各單位主管回覆彙整為含三段式洞察（報告主體 / 注意細節 / 服務系統面留意事項）的 Notion 日報。每工作日 09:00 自動產出，同事一個連結即可使用。",
+      "tech": [
+        "n8n",
+        "Supabase",
+        "OpenAI GPT 5.4",
+        "Notion API"
+      ],
+      "url": "",
+      "completed": "2026-04"
     }
   ]
 }
