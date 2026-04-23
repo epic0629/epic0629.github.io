@@ -101,6 +101,20 @@
       "completed": "2025-11"
     },
     {
+      "position": 20,
+      "name": "多 Agent 協作系統",
+      "category": "skill",
+      "color": "#F59E0B",
+      "description": "四個自定 subagent（反對者 / 品管大師 / 資料大師 / 美學大師）各司其職，底層皆 Claude；跨模型客觀意見另接 Codex CLI 與 Gemini REST。",
+      "tech": [
+        "Claude Code",
+        "Codex CLI",
+        "Gemini"
+      ],
+      "url": "",
+      "completed": "2026-04"
+    },
+    {
       "position": 23,
       "name": "Where Are You",
       "category": "website",
