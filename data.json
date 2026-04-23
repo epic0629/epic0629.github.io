@@ -31,6 +31,20 @@
       "completed": "2025-10"
     },
     {
+      "position": 5,
+      "name": "CallCenter 3×3 對話分析",
+      "category": "website",
+      "color": "#9333EA",
+      "description": "九通 3×3 服務情境模擬對話的深度分析報告，用五層解析法 v3 框架拆解互動模式、對話結構與服務缺口。",
+      "tech": [
+        "HTML",
+        "Chart.js",
+        "Claude"
+      ],
+      "url": "",
+      "completed": "2026-04"
+    },
+    {
       "position": 7,
       "name": "Agent Dashboard",
       "category": "website",
@@ -101,6 +115,20 @@
       "completed": "2026-01"
     },
     {
+      "position": 26,
+      "name": "LiLi 真人客服分析",
+      "category": "skill",
+      "color": "#533D5B",
+      "description": "LiLi 轉真人客服對話分析（11 維度）——客服努力度、漏接客資、購買意圖辨識、客服促成行為、意圖流失風險。",
+      "tech": [
+        "Skill",
+        "pandas",
+        "Notion MCP"
+      ],
+      "url": "",
+      "completed": "2026-04"
+    },
+    {
       "position": 31,
       "name": "Wholesale Map",
       "category": "website",
@@ -114,6 +142,24 @@
       "completed": "2025-12"
     },
     {
+      "position": 33,
+      "name": "Event Radar",
+      "category": "website",
+      "color": "#6e4bff",
+      "description": "為朋友 Haley（行銷人）打造的實體活動案例搜尋網站。一次抓 FB Events / FB 粉專 / IG / Threads / LinkedIn 五源，Apify async scraper + Netlify Functions poll 架構繞過 10 秒 timeout，收藏雲端同步。Pastel Pop 雜誌風 UI。",
+      "tech": [
+        "Vite",
+        "React",
+        "TypeScript",
+        "Apify",
+        "Netlify Functions",
+        "Supabase"
+      ],
+      "url": "https://look-borrow-launch.netlify.app",
+      "linkDisabled": true,
+      "completed": "2026-04"
+    },
+    {
       "position": 36,
       "name": "Meeting Agenda Generator",
       "category": "website",
@@ -125,6 +171,20 @@
       ],
       "url": "",
       "completed": "2026-02"
+    },
+    {
+      "position": 38,
+      "name": "Power BI DAX 查詢",
+      "category": "skill",
+      "color": "#2A4073",
+      "description": "Power BI Desktop DAX query execution——直接從 PBI Desktop 執行 DAX 查詢取得數據。",
+      "tech": [
+        "Skill",
+        "Power BI",
+        "DAX"
+      ],
+      "url": "",
+      "completed": "2026-04"
     },
     {
       "position": 42,
@@ -157,6 +217,21 @@
       "url": "https://lili-faq-management.netlify.app",
       "linkDisabled": true,
       "completed": "2026-03"
+    },
+    {
+      "position": 45,
+      "name": "標準團名價格帶分析",
+      "category": "website",
+      "color": "#C9A961",
+      "description": "雄獅 14 份季度報表清洗 × 188 詞綴抽取 × 7 主線相對高端度分析；dashboard 含全域年份切換、獨佔產品熱圖、互動探索三組拉桿 reactive 篩詞綴。深墨綠 × 黃銅金和色配色。",
+      "tech": [
+        "Python",
+        "jieba",
+        "Chart.js",
+        "Netlify"
+      ],
+      "url": "https://standard-tour-price-band-epic.netlify.app",
+      "completed": "2026-04"
     },
     {
       "position": 47,
@@ -201,36 +276,6 @@
       "completed": "2026-03"
     },
     {
-      "position": 68,
-      "name": "Google Review 地圖",
-      "category": "website",
-      "color": "#E60012",
-      "description": "雄獅旅遊 32 個直售處據點的 Google 評論地圖儀表板，整合 Supabase 資料庫與 Leaflet 互動地圖，支援分區篩選、時間範圍切換與評論詳情瀏覽。",
-      "tech": [
-        "Svelte 5",
-        "Leaflet",
-        "Supabase",
-        "Vite 7"
-      ],
-      "url": "https://google-reviews-dashboard.netlify.app",
-      "completed": "2026-03"
-    },
-    {
-      "position": 62,
-      "name": "AI Observatory",
-      "category": "project",
-      "color": "#0EA5E9",
-      "description": "多平台 AI 用量監控儀表板，整合 Claude、Antigravity、Codex、OpenRouter、OpenAI API、Apify、Railway 七大服務，自動追蹤 quota/credit/usage。OpenAI 透過 Admin Key Costs API 計算餘額。",
-      "tech": [
-        "HTML",
-        "JavaScript",
-        "Python",
-        "OpenAI Admin API"
-      ],
-      "url": "",
-      "completed": "2026-03"
-    },
-    {
       "position": 53,
       "name": "NovelTranslator",
       "category": "project",
@@ -259,6 +304,19 @@
       "completed": "2025-11"
     },
     {
+      "position": 58,
+      "name": "BIF 資訊流解析",
+      "category": "skill",
+      "color": "#6699A1",
+      "description": "解析 BIF 資訊流圖表，產出結構化表格——將圖形化的資訊流轉換為可分析的數據。",
+      "tech": [
+        "Skill",
+        "Parser"
+      ],
+      "url": "",
+      "completed": "2026-04"
+    },
+    {
       "position": 61,
       "name": "Chrome OpenAI Translator",
       "category": "project",
@@ -271,6 +329,21 @@
       ],
       "url": "",
       "completed": "2025-10"
+    },
+    {
+      "position": 62,
+      "name": "AI Observatory",
+      "category": "project",
+      "color": "#0EA5E9",
+      "description": "多平台 AI 用量監控儀表板，整合 Claude、Antigravity、Codex、OpenRouter、OpenAI API、Apify、Railway 七大服務，自動追蹤 quota/credit/usage。OpenAI 透過 Admin Key Costs API 計算餘額。",
+      "tech": [
+        "HTML",
+        "JavaScript",
+        "Python",
+        "OpenAI Admin API"
+      ],
+      "url": "",
+      "completed": "2026-03"
     },
     {
       "position": 65,
@@ -287,6 +360,36 @@
       "completed": "2025-12"
     },
     {
+      "position": 67,
+      "name": "LiLi 主管報告",
+      "category": "website",
+      "color": "#F5B199",
+      "description": "LiLi 智能客服延長服務時段建議報告，整合 Power BI 數據與真人客服 rawdata，以視覺化圖表呈現夜間商機與營收潛力。",
+      "tech": [
+        "HTML",
+        "JavaScript",
+        "Playwright"
+      ],
+      "url": "https://lili-manager-report.netlify.app",
+      "linkDisabled": true,
+      "completed": "2026-03"
+    },
+    {
+      "position": 68,
+      "name": "Google Review 地圖",
+      "category": "website",
+      "color": "#E60012",
+      "description": "雄獅旅遊 32 個直售處據點的 Google 評論地圖儀表板，整合 Supabase 資料庫與 Leaflet 互動地圖，支援分區篩選、時間範圍切換與評論詳情瀏覽。",
+      "tech": [
+        "Svelte 5",
+        "Leaflet",
+        "Supabase",
+        "Vite 7"
+      ],
+      "url": "https://google-reviews-dashboard.netlify.app",
+      "completed": "2026-03"
+    },
+    {
       "position": 72,
       "name": "Dashboard",
       "category": "project",
@@ -301,6 +404,21 @@
       "completed": "2026-01"
     },
     {
+      "position": 73,
+      "name": "直售處組織圖",
+      "category": "website",
+      "color": "#516E41",
+      "description": "直售處互動式組織圖網站，雙頁籤呈現：一頁式地理區域概況表 + 可展開收合的人事樹狀圖，支援即時搜尋定位與高亮。",
+      "tech": [
+        "HTML",
+        "JavaScript",
+        "Netlify"
+      ],
+      "url": "https://lion-org-chart.netlify.app",
+      "linkDisabled": true,
+      "completed": "2026-03"
+    },
+    {
       "position": 74,
       "name": "EVOX 異常追蹤",
       "category": "website",
@@ -313,6 +431,21 @@
       ],
       "url": "",
       "completed": "2026-03"
+    },
+    {
+      "position": 75,
+      "name": "EVOX 低分案件日報",
+      "category": "project",
+      "color": "#1B813E",
+      "description": "雄獅客服低分話後評分案件每日自動分析報告。n8n + Supabase + GPT 5.4 語意分析，將 LINE 群組各單位主管回覆彙整為含三段式洞察（報告主體 / 注意細節 / 服務系統面留意事項）的 Notion 日報。每工作日 09:00 自動產出，同事一個連結即可使用。",
+      "tech": [
+        "n8n",
+        "Supabase",
+        "OpenAI GPT 5.4",
+        "Notion API"
+      ],
+      "url": "",
+      "completed": "2026-04"
     },
     {
       "position": 77,
@@ -372,36 +505,6 @@
       "completed": "2025-12"
     },
     {
-      "position": 67,
-      "name": "LiLi 主管報告",
-      "category": "website",
-      "color": "#F5B199",
-      "description": "LiLi 智能客服延長服務時段建議報告，整合 Power BI 數據與真人客服 rawdata，以視覺化圖表呈現夜間商機與營收潛力。",
-      "tech": [
-        "HTML",
-        "JavaScript",
-        "Playwright"
-      ],
-      "url": "https://lili-manager-report.netlify.app",
-      "linkDisabled": true,
-      "completed": "2026-03"
-    },
-    {
-      "position": 73,
-      "name": "直售處組織圖",
-      "category": "website",
-      "color": "#516E41",
-      "description": "直售處互動式組織圖網站，雙頁籤呈現：一頁式地理區域概況表 + 可展開收合的人事樹狀圖，支援即時搜尋定位與高亮。",
-      "tech": [
-        "HTML",
-        "JavaScript",
-        "Netlify"
-      ],
-      "url": "https://lion-org-chart.netlify.app",
-      "linkDisabled": true,
-      "completed": "2026-03"
-    },
-    {
       "position": 99,
       "name": "Color Annotator",
       "category": "website",
@@ -415,95 +518,6 @@
       ],
       "url": "https://color-annotator.netlify.app",
       "completed": "2026-03"
-    },
-    {
-      "position": 26,
-      "name": "LiLi 真人客服分析",
-      "category": "skill",
-      "color": "#533D5B",
-      "description": "LiLi 轉真人客服對話分析（11 維度）——客服努力度、漏接客資、購買意圖辨識、客服促成行為、意圖流失風險。",
-      "tech": [
-        "Skill",
-        "pandas",
-        "Notion MCP"
-      ],
-      "url": "",
-      "completed": "2026-04"
-    },
-    {
-      "position": 38,
-      "name": "Power BI DAX 查詢",
-      "category": "skill",
-      "color": "#2A4073",
-      "description": "Power BI Desktop DAX query execution——直接從 PBI Desktop 執行 DAX 查詢取得數據。",
-      "tech": [
-        "Skill",
-        "Power BI",
-        "DAX"
-      ],
-      "url": "",
-      "completed": "2026-04"
-    },
-    {
-      "position": 58,
-      "name": "BIF 資訊流解析",
-      "category": "skill",
-      "color": "#6699A1",
-      "description": "解析 BIF 資訊流圖表，產出結構化表格——將圖形化的資訊流轉換為可分析的數據。",
-      "tech": [
-        "Skill",
-        "Parser"
-      ],
-      "url": "",
-      "completed": "2026-04"
-    },
-    {
-      "position": 33,
-      "name": "Event Radar",
-      "category": "website",
-      "color": "#6e4bff",
-      "description": "為朋友 Haley（行銷人）打造的實體活動案例搜尋網站。一次抓 FB Events / FB 粉專 / IG / Threads / LinkedIn 五源，Apify async scraper + Netlify Functions poll 架構繞過 10 秒 timeout，收藏雲端同步。Pastel Pop 雜誌風 UI。",
-      "tech": [
-        "Vite",
-        "React",
-        "TypeScript",
-        "Apify",
-        "Netlify Functions",
-        "Supabase"
-      ],
-      "url": "https://look-borrow-launch.netlify.app",
-      "linkDisabled": true,
-      "completed": "2026-04"
-    },
-    {
-      "position": 75,
-      "name": "EVOX 低分案件日報",
-      "category": "project",
-      "color": "#1B813E",
-      "description": "雄獅客服低分話後評分案件每日自動分析報告。n8n + Supabase + GPT 5.4 語意分析，將 LINE 群組各單位主管回覆彙整為含三段式洞察（報告主體 / 注意細節 / 服務系統面留意事項）的 Notion 日報。每工作日 09:00 自動產出，同事一個連結即可使用。",
-      "tech": [
-        "n8n",
-        "Supabase",
-        "OpenAI GPT 5.4",
-        "Notion API"
-      ],
-      "url": "",
-      "completed": "2026-04"
-    },
-    {
-      "position": 45,
-      "name": "標準團名價格帶分析",
-      "category": "website",
-      "color": "#C9A961",
-      "description": "雄獅 14 份季度報表清洗 × 188 詞綴抽取 × 7 主線相對高端度分析；dashboard 含全域年份切換、獨佔產品熱圖、互動探索三組拉桿 reactive 篩詞綴。深墨綠 × 黃銅金和色配色。",
-      "tech": [
-        "Python",
-        "jieba",
-        "Chart.js",
-        "Netlify"
-      ],
-      "url": "https://standard-tour-price-band-epic.netlify.app",
-      "completed": "2026-04"
     }
   ]
 }
