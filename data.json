@@ -489,6 +489,21 @@
       ],
       "url": "",
       "completed": "2026-04"
+    },
+    {
+      "position": 45,
+      "name": "標準團名價格帶分析",
+      "category": "website",
+      "color": "#C9A961",
+      "description": "雄獅 14 份季度報表清洗 × 188 詞綴抽取 × 7 主線相對高端度分析；dashboard 含全域年份切換、獨佔產品熱圖、互動探索三組拉桿 reactive 篩詞綴。深墨綠 × 黃銅金和色配色。",
+      "tech": [
+        "Python",
+        "jieba",
+        "Chart.js",
+        "Netlify"
+      ],
+      "url": "https://standard-tour-price-band-epic.netlify.app",
+      "completed": "2026-04"
     }
   ]
 }
