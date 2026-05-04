@@ -331,6 +331,20 @@
       "completed": "2026-04"
     },
     {
+      "position": 60,
+      "name": "Memo from anything 看板",
+      "category": "skill",
+      "color": "#7C3AED",
+      "description": "5 Agent + 1 人類共用的跨機器協作看板。Notion 資料庫升級為 Kanban（狀態/指派/優先/進度筆記），搭配狀態↔指派對應規則，讓 Win Claude / Mac Claude / 天照 / 月讀 / Codex 各司其職、不越權。",
+      "tech": [
+        "Notion MCP",
+        "Skill",
+        "Multi-Agent"
+      ],
+      "url": "",
+      "completed": "2026-04"
+    },
+    {
       "position": 61,
       "name": "Chrome OpenAI Translator",
       "category": "project",
