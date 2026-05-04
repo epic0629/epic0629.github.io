@@ -422,7 +422,7 @@
       "name": "天照 Amaterasu",
       "category": "project",
       "color": "#F19483",
-      "description": "家用 Windows 桌機上的 Claude Code 24 小時 AI Agent。Opus 4.6 + Discord MCP 即時值班、4 自定 subagent、15+ MCP、116+ Skills，與弟弟月讀共享 GitHub 記憶 repo。命名取自日本神話・天照大神。",
+      "description": "家用 Windows 桌機上的 Claude Code 24 小時 AI Agent。Opus 4.6 + Discord MCP 即時值班、4 自定 subagent、15+ MCP、116+ Skills，與姊姊月讀共享 GitHub 記憶 repo。命名取自日本神話・天照大神。",
       "tech": [
         "Claude Code",
         "Discord MCP",
@@ -436,7 +436,7 @@
       "name": "月讀 Tsukuyomi",
       "category": "project",
       "color": "#EBF6F7",
-      "description": "家用 Windows 桌機上的 Hermes Agent 24 小時執行型 AI 助理。OpenAI 底層 + 本機檔案/排程/瀏覽器操作 + Notion 協作，「少問先查直接做」。與姊姊天照並列日本神話三貴子之二。",
+      "description": "家用 Windows 桌機上的 Hermes Agent 24 小時執行型 AI 助理。OpenAI 底層 + 本機檔案/排程/瀏覽器操作 + Notion 協作，「少問先查直接做」。與弟弟天照並列日本神話三貴子之二。",
       "tech": [
         "Hermes Agent",
         "OpenAI",
