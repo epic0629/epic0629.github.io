@@ -418,6 +418,20 @@
       "completed": "2026-03"
     },
     {
+      "position": 70,
+      "name": "天照 Amaterasu",
+      "category": "project",
+      "color": "#F19483",
+      "description": "家用 Windows 桌機上的 Claude Code 24 小時 AI Agent。Opus 4.6 + Discord MCP 即時值班、4 自定 subagent、15+ MCP、116+ Skills，與弟弟月讀共享 GitHub 記憶 repo。命名取自日本神話・天照大神。",
+      "tech": [
+        "Claude Code",
+        "Discord MCP",
+        "Subagent"
+      ],
+      "url": "",
+      "completed": "2026-04"
+    },
+    {
       "position": 72,
       "name": "Dashboard",
       "category": "project",
