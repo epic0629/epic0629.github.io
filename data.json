@@ -574,6 +574,21 @@
       ],
       "url": "https://color-annotator.netlify.app",
       "completed": "2026-03"
+    },
+    {
+      "position": 1,
+      "name": "標準團名快問快答系統",
+      "category": "website",
+      "color": "#B08D57",
+      "description": "雄獅直售業務團名直覺調查 — 從 1500 筆 2025-2026 標準團名(7 線分層,排除 PAK/客製/企業包團)亂數抽 10 題,蒐集業務對適用 TA 的直覺,作為後續比對 ERP 真實買家客群的研究素材。",
+      "tech": [
+        "HTML",
+        "Supabase",
+        "Netlify",
+        "epic-design"
+      ],
+      "url": "https://sales-intuition-survey-epic.netlify.app",
+      "completed": "2026-05"
     }
   ]
 }
