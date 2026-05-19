@@ -589,6 +589,20 @@
       ],
       "url": "https://sales-intuition-survey-epic.netlify.app",
       "completed": "2026-05"
+    },
+    {
+      "position": 3,
+      "name": "SUICA 鬧鐘",
+      "category": "project",
+      "color": "#7BA23F",
+      "description": "日本 SUICA 交通卡視覺主題的碎片時間記錄器。常駐瀏覽器每隔 30 分鐘以桌面通知＋嗶聲提醒「剛剛做了什麼」，貼上截圖自動送 Gemini 視覺模型轉繁中工作描述並選分類，記錄存進 Supabase。支援 Document PiP 最上層浮窗，ERP 全螢幕工作時也看得到，浮窗內可就地記錄。",
+      "tech": [
+        "HTML",
+        "Gemini API",
+        "Supabase"
+      ],
+      "url": "",
+      "completed": "2026-05"
     }
   ]
 }
