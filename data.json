@@ -603,6 +603,26 @@
       ],
       "url": "",
       "completed": "2026-05"
+    },
+    {
+      "position": 29,
+      "name": "Outreach Radar",
+      "category": "website",
+      "color": "#5DAC81",
+      "description": "定期探勘潛在客戶的工具。抓『辦過活動的品牌』當潛在客戶名單，Claude 過濾後寄信給業主，核准後代發",
+      "tech": ["React", "TypeScript", "Vite", "Apify", "Netlify Functions"],
+      "linkDisabled": true,
+      "completed": "2026-05"
+    },
+    {
+      "position": 86,
+      "name": "叮咚叮咚",
+      "category": "website",
+      "color": "#DC9FB4",
+      "description": "為朋友打造的粉紅色待辦清單。寫下要做的事、勾掉完成的事；沒勾的每兩小時用桌面通知＋叮咚聲提醒一次，逾期的優先點名。延伸自 SUICA 鬧鐘的固定節奏提醒精神，做成雲端部署版可跨裝置同步。",
+      "tech": ["React", "TypeScript", "Supabase", "Vite"],
+      "linkDisabled": true,
+      "completed": "2026-05"
     }
   ]
 }
