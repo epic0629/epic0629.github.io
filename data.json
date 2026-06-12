@@ -623,6 +623,26 @@
       "tech": ["React", "TypeScript", "Supabase", "Vite"],
       "linkDisabled": true,
       "completed": "2026-05"
+    },
+    {
+      "position": 46,
+      "name": "2026 營業額動態預測模擬器",
+      "category": "website",
+      "color": "#c9a227",
+      "description": "直售處 2026 營業額動態預測模擬器。站在 6/1 月初快照、日頻進單校正至 6/11，模型 v2 以 φ 預訂曲線 × α 節奏校正 × YoY 反變異數混合推估全年達標路徑（目標 214.3 億）。互動拉桿可調各線別情境，純前端 SVG 圖表攤開悲觀光譜與體檢清單——不為樂觀，只誠實面對會不達標的路徑。",
+      "tech": ["HTML", "JavaScript", "SVG", "Netlify"],
+      "url": "",
+      "completed": "2026-06"
+    },
+    {
+      "position": 51,
+      "name": "ESG 尾牙・六幕提案",
+      "category": "website",
+      "color": "#3dd6c4",
+      "description": "為 500 人飯店宴會廳量身的 ESG 尾牙視覺提案，六幕主題（淨零之夜／暖陽手作節／風土走讀／永續會典／本味留白／碳中和夜）各含現場效果圖、色彩計畫、簽名時刻與反漂綠防線。深綠 × 湖水綠 × 古銅的雜誌風 scrollytelling，把永續辦成一場好看的宴席。",
+      "tech": ["HTML", "CSS", "Scrollytelling", "Netlify"],
+      "url": "",
+      "completed": "2026-06"
     }
   ]
 }
