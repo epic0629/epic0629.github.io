@@ -643,6 +643,16 @@
       "tech": ["HTML", "CSS", "Scrollytelling", "Netlify"],
       "url": "",
       "completed": "2026-06"
+    },
+    {
+      "position": 55,
+      "name": "AI 圓桌 Roundtable",
+      "category": "skill",
+      "color": "#5654A2",
+      "description": "Claude 當主持人（不只轉信）出題、追問、整合，透過檔案匯流排讓 Codex 與 Gemini 回合制互相討論；主控台網頁讓 Epic 即時提問（規則：定論後才處理）並邀請五種 subagent（反對者／品管大師／美學大師／google大師／陪審團）進場代筆發言。2026-07-05 首度實跑兩場，其一把 session 結束的『蒸餾五問』議定重構為反事實稽核版 Q5；修掉 Win 端 stdin 掛死陷阱後 E2E 全通。",
+      "tech": ["Python", "Claude Code", "Codex CLI", "Gemini"],
+      "url": "",
+      "completed": "2026-07"
     }
   ]
 }
