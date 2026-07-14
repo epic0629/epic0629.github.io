@@ -653,6 +653,28 @@
       "tech": ["Python", "Claude Code", "Codex CLI", "Gemini"],
       "url": "",
       "completed": "2026-07"
+    },
+    {
+      "position": 63,
+      "name": "今日之花 Flower of the Day",
+      "category": "website",
+      "color": "#CC7EB1",
+      "description": "每天一朵花的溫柔小站。依當天日期從 365 種花裡選出『今日之花』，配一句花語與一句寫給你的英文情話，輕觸封面的花苞才揭曉。今天是繡球花・『真心與感謝』。粉紫的菖蒲色調、canvas 花瓣緩緩飄落，純靜態、365 天不重複，獻給天性浪漫的人。",
+      "tech": ["HTML", "JavaScript", "Canvas"],
+      "url": "",
+      "linkDisabled": true,
+      "completed": "2026-07"
+    },
+    {
+      "position": 82,
+      "name": "韓文背單字 · 한국어",
+      "category": "website",
+      "color": "#69B0AC",
+      "description": "依學習順序編排的 1000 字韓文單字小站。三種模式：卡片瀏覽、翻卡間隔複習（Leitner SRS 依熟練度自動排下次該複習的字）、四種題型測驗（韓中互譯・例句填空・動詞三態變化）。每個字都配一句自然例句，動詞與形容詞附現在／過去／敬語三態。青瓷綠 × 印章朱的和風配色、手機優先 RWD，資料存 Supabase 可隨時擴充。給想把韓劇聽成日常的人。",
+      "tech": ["Vite", "React", "TypeScript", "Tailwind CSS", "Supabase"],
+      "url": "",
+      "linkDisabled": true,
+      "completed": "2026-07"
     }
   ]
 }
