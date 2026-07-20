@@ -80,7 +80,7 @@
       "description": "台灣旅行社門市地圖視覺化，爬取 10 家旅行社門市資料，Geocoding 定位後在地圖上互動展示。",
       "tech": [
         "Svelte",
-        "MapLibre GL",
+        "Leaflet",
         "Supabase"
       ],
       "url": "https://agentmap-epic.netlify.app",
