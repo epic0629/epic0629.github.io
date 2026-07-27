@@ -680,7 +680,7 @@
       "position": 4,
       "name": "會議室座位規劃 Seating Planner",
       "category": "website",
-      "color": "#8B81C3",
+      "color": "#0E7C7B",
       "description": "取代 Excel 手排座位的單檔網頁工具。勾選這次誰出席，系統算出要幾張桌、再依規則排位：主席先定位，區經理優先填滿主席那排，接投影與跑後勤的人釘在指定方位，其餘同區的坐在一起。ㄇ字型與教室型兩種排法，位置好壞用「主席看不看得到臉」計分。不滿意就拖曳兩個座位互換，最後輸出兩倍解析度 PNG。純前端零函式庫、名單存在瀏覽器本機，96 項 Playwright 檢查與四輪複查把關。給每次開會前都在猶豫「會議室要不要重排」的人。",
       "tech": ["HTML", "JavaScript", "SVG", "localStorage"],
       "url": "",
