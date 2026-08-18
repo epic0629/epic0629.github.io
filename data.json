@@ -686,6 +686,16 @@
       "url": "",
       "linkDisabled": true,
       "completed": "2026-07"
+    },
+    {
+      "position": 80,
+      "name": "九州初夏五日 行程手冊",
+      "category": "website",
+      "color": "#005CAF",
+      "description": "雄獅九州五日團的隨身行程手冊網站。總覽地圖把 23 個停點按天塗上五種和色,點景點卡直接飛到地圖定位,再一鍵開 Google 地圖查周邊;每個景點都有完整介紹與備忘,去過打個勾、給星等留短評,紀錄存在自己手機裡。旅途資訊集把航班、集合、行李、換匯、緊急聯絡與 12 句會發音的實用日語收在一頁。座標全數經 OpenStreetMap 查證,查不到的不亂標。給出發前想做功課、路上想隨手翻的人。",
+      "tech": ["React", "Vite", "Leaflet", "OpenStreetMap", "CARTO", "localStorage", "Web Speech API"],
+      "url": "https://kyushu-trip-epic.netlify.app",
+      "completed": "2026-08"
     }
   ]
 }
