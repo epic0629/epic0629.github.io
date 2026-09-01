@@ -91,13 +91,13 @@
       "name": "Travel Map Generator",
       "category": "website",
       "color": "#39d353",
-      "description": "旅遊地圖產生器，上傳景點清單自動產生精美旅遊路線地圖，支援多種風格匯出。",
+      "description": "多日旅遊行程地圖工作台，分日程規劃、路段標交通工具、地圖加文字備註，逐日輸出 PNG。",
       "tech": [
         "Svelte",
         "MapLibre GL",
         "html2canvas"
       ],
-      "url": "https://travel-map-generator.netlify.app",
+      "url": "https://travel-map-studio-epic.netlify.app",
       "completed": "2025-11"
     },
     {
