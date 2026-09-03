@@ -696,6 +696,39 @@
       "tech": ["React", "Vite", "Leaflet", "OpenStreetMap", "CARTO", "localStorage", "Web Speech API"],
       "url": "https://kyushu-trip-epic.netlify.app",
       "completed": "2026-08"
+    },
+    {
+      "position": 9,
+      "name": "商周CEO 驅動因子樹",
+      "category": "website",
+      "color": "#B5495B",
+      "description": "把「營收為什麼會成長」拆成一棵可以拿去開會吵的樹。上完商周百億 CEO 班的成長藍圖工作坊後，照講義的先加後乘與 MECE 規則，把國外團體營收層層拆到末端因子。單檔網頁編輯器內嵌七個版本、各自獨立存檔互不覆蓋；節點按 Enter 長同輩、按 Tab 長子代，拖曳就換母節點，非末端自動轉白、排版自動壓緊，改完直接列印成 A4 橫幅單頁。七版一路從通路視角改到季報校準、再到老師逐格審過的定版，被退回重畫的次數比一次畫對的次數多。",
+      "tech": ["HTML", "JavaScript", "SVG", "localStorage", "Netlify"],
+      "url": "",
+      "linkDisabled": true,
+      "completed": "2026-09"
+    },
+    {
+      "position": 16,
+      "name": "Skill 使用監控儀表板",
+      "category": "skill",
+      "color": "#D97706",
+      "description": "回答一個自己很難查的問題：裝了這麼多 skill，到底哪些真的有在用？掃過所有對話紀錄重建帳本，分辨每一次呼叫是手動打的斜線指令、Claude 自己路由、還是排程觸發，再產出單檔 HTML 儀表板。四章依序回答：哪些其實沒在用（含觸發詞互相搶的配對）、最常用什麼、彼此怎麼牽連、用在一段對話的哪個位置。關聯圖是零函式庫自製的力導向佈局，節點大小是呼叫次數、顏色是用途類型。收不到訊號不等於沒被用過，所以只呈現，不建議刪除。",
+      "tech": ["Python", "HTML", "SVG", "Claude Code Hooks"],
+      "url": "",
+      "linkDisabled": true,
+      "completed": "2026-08"
+    },
+    {
+      "position": 88,
+      "name": "付款挪帳溢收觀察",
+      "category": "skill",
+      "color": "#8C4843",
+      "description": "每週把兩份收付款報表各跑一支引擎：付款端看第三人代付、無金流軌跡這一類訊號，挪帳端看溢收、欠收、取消仍留款。貼標後跟同儕組比對亮燈，輸出不是一份篩選過的名單，而是每一個人各一句「他的可能性在哪裡」加上一個排序，兩邊都亮的另外交叉列出。刻意不設資格門檻剔人——樣本少的、十個面向全是零的照樣寫進去，因為最看不出來的往往就是那一群。這裡判斷的是潛在性，不是結果。",
+      "tech": ["Python", "pandas", "openpyxl", "Skill"],
+      "url": "",
+      "linkDisabled": true,
+      "completed": "2026-09"
     }
   ]
 }
