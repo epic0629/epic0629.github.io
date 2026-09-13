@@ -729,6 +729,16 @@
       "url": "",
       "linkDisabled": true,
       "completed": "2026-09"
+    },
+    {
+      "position": 24,
+      "name": "Tokyo Subway 3D 乗換案内",
+      "category": "website",
+      "color": "#FF9500",
+      "description": "東京メトロ、都営、JR 與機場線共 24 線 279 站，畫在 Mapbox 夜間 3D 地圖上，列車光點照 ODPT 時刻表在線上跑。輸入起訖站給三種走法，每一段寫清楚方向、出發與到著月台、換乘方式、要走幾分鐘、等幾分鐘，站與站之間用乗換案内那種換乘節點串起來。另外可以用一句話問「從新宿去迪士尼」讓 Gemini 幫你對站名，查完一鍵存成圖片或連結分享。資料來自 ODPT、OpenStreetMap 與 Wikipedia 各站的のりば表。",
+      "tech": ["Mapbox GL JS", "deck.gl", "ODPT", "OpenStreetMap", "Python", "Gemini API"],
+      "url": "https://tokyo-transit-epic.netlify.app",
+      "completed": "2026-09"
     }
   ]
 }
