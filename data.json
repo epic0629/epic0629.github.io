@@ -739,6 +739,17 @@
       "tech": ["Mapbox GL JS", "deck.gl", "ODPT", "OpenStreetMap", "Python", "Gemini API"],
       "url": "https://tokyo-transit-epic.netlify.app",
       "completed": "2026-09"
+    },
+    {
+      "position": 27,
+      "name": "資訊元件圖鑑",
+      "category": "skill",
+      "color": "#B35C37",
+      "description": "做簡報或報告前，先問「這一頁要回答什麼問題」，再挑呈現方式。十群 85 個元件、37 個問題，點卡片會跳出整頁簡報示意；同一題的候選元件用同一份資料並排比較，挑好的放進購物車，匯出成設計規格清單。",
+      "tech": ["HTML", "SVG", "JavaScript", "Playwright"],
+      "url": "",
+      "linkDisabled": true,
+      "completed": "2026-09"
     }
   ]
 }
