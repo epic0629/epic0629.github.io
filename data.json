@@ -750,6 +750,39 @@
       "url": "",
       "linkDisabled": true,
       "completed": "2026-09"
+    },
+    {
+      "position": 40,
+      "name": "圖說轉 3D",
+      "category": "skill",
+      "color": "#854836",
+      "description": "丟進一份室內設計施工圖 PDF，讀出牆、地坪、天花和燈具的位置，堆成一個能拖曳旋轉、切換樓層的 3D 模型，整個裝在一個 HTML 檔裡。牆線直接從向量圖抽出來，尺寸逐項對回圖面標註；檢視器可以拉時間軸看一天的光影、從材質板換地板和牆面、把擋住視線的牆剖開。先拿一間實體店面的施工圖做出第一個成品，再把流程整理成可以重複使用的 skill。",
+      "tech": ["three.js", "Python", "PyMuPDF", "Shapely", "HTML"],
+      "url": "",
+      "linkDisabled": true,
+      "completed": "2026-10"
+    },
+    {
+      "position": 25,
+      "name": "字根小花園",
+      "category": "website",
+      "color": "#2D6D4B",
+      "description": "給想重拾英文的上班族，通勤時拿手機每天花五到十分鐘。收了 120 組字首、字根、字尾和一千七百多個例字，每個單字把字根上色，點開看拆字、例句和口訣。複習就像幫花園澆水，另有字根猜謎小遊戲；還有一版把學習路線畫成通勤地鐵圖。",
+      "tech": ["React", "TypeScript", "Vite", "Tailwind CSS", "Supabase"],
+      "url": "",
+      "linkDisabled": true,
+      "completed": "2026-09"
+    },
+    {
+      "position": 59,
+      "name": "簡報訂正簿",
+      "category": "skill",
+      "color": "#E83015",
+      "description": "左邊開著 HTML 簡報，右邊每一屏一個輸入框，邊翻邊寫要改的地方，按下記錄就存成檔案，每條意見都綁著屏號和當下的標題。寫完跟 Claude 說一聲，它一次讀完、一次改完，不用再在對話裡對第幾頁。季報兩輪三十多屏的修改就是這樣改完的。",
+      "tech": ["Python", "HTML", "JavaScript", "Playwright"],
+      "url": "",
+      "linkDisabled": true,
+      "completed": "2026-09"
     }
   ]
 }
