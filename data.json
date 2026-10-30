@@ -783,6 +783,48 @@
       "url": "",
       "linkDisabled": true,
       "completed": "2026-09"
+    },
+    {
+      "position": 17,
+      "name": "颱風應變網站",
+      "category": "website",
+      "color": "#233B6C",
+      "description": "颱風來的時候給同仁看的應變頁。地圖每小時抓人事行政總處公告，整個縣市停班停課就標灰；同時接氣象署的颱風路徑與警報，颱風在哪、往哪走一張圖看完。按自己的身分（主管、門市、客服、業務、企劃）點亮該做的事，颱風一走自動關閉颱風模式。",
+      "tech": ["HTML", "SVG", "Netlify Functions", "Supabase", "氣象署開放資料"],
+      "url": "https://typhoon-ops-lion-directsale.netlify.app",
+      "completed": "2026-10"
+    },
+    {
+      "position": 8,
+      "name": "主控台面板",
+      "category": "project",
+      "color": "#7058A3",
+      "description": "Claude 桌面版側邊的主控台。每回合結束自動把還沒決定的事抽出來排成待決事項，選項直接變成按鈕，點一下就回覆並勾掉；背景跑的子代理、Codex 複查進度也在同一欄看得到，不用翻對話找。",
+      "tech": ["JavaScript", "Claude Code mod", "Codex CLI"],
+      "url": "",
+      "linkDisabled": true,
+      "completed": "2026-10"
+    },
+    {
+      "position": 30,
+      "name": "儀表板草圖台",
+      "category": "project",
+      "color": "#DB4D6D",
+      "description": "做儀表板前先在畫布上排版：33 種圖表加標題列、篩選列、文字說明，拖進 12 欄格線就能移動、縮放、方向鍵微調，可復原重做、自動存檔。每張圖旁邊寫下它要回答的問題，最後把草圖和規格交給 Claude 接著做。",
+      "tech": ["HTML", "JavaScript", "Playwright"],
+      "url": "",
+      "linkDisabled": true,
+      "completed": "2026-10"
+    },
+    {
+      "position": 41,
+      "name": "雄獅一日生活圈",
+      "category": "website",
+      "color": "#FFB11B",
+      "description": "總部周邊一張 3D 地圖：會議室現在有沒有人用、附近公車幾分鐘到、路上塞不塞、員工交通車時刻和附近店家，一頁查完。會議室只讀日曆的忙碌時段，不顯示會議名稱。",
+      "tech": ["Three.js", "Netlify Functions", "Google Calendar API", "公車開放資料"],
+      "url": "https://lion-life.netlify.app",
+      "completed": "2026-10"
     }
   ]
 }
