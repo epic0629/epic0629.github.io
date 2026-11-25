@@ -825,6 +825,28 @@
       "tech": ["Three.js", "Netlify Functions", "Google Calendar API", "公車開放資料"],
       "url": "https://lion-life.netlify.app",
       "completed": "2026-10"
+    },
+    {
+      "position": 48,
+      "name": "2026 ITF 旅展數位化",
+      "category": "website",
+      "color": "#B55D4C",
+      "description": "旅展四天的數位工具：紙本 DM 和 POP 加上可點的商品區塊，點了直接到官網行程；五個網站的點擊都記下來，看哪些團被點；現場主管用手機看各桌業績和排行榜，展攤另外做成 3D，結束後業績只留火焰標記。",
+      "tech": ["Three.js", "Supabase", "Netlify", "Cloudflare Workers"],
+      "url": "",
+      "linkDisabled": true,
+      "completed": "2026-11"
+    },
+    {
+      "position": 83,
+      "name": "agy 外掛",
+      "category": "project",
+      "color": "#706CAA",
+      "description": "讓 Claude Code 透過 Antigravity CLI 呼叫 Gemini，用 Google AI Pro 訂閱額度，不用 API key。可以問答、上網搜尋、讀檔看圖、審查檔案、抓網頁全文，Claude 也能自己判斷何時交給 Gemini。",
+      "tech": ["Claude Code Plugin", "Antigravity CLI", "Gemini"],
+      "url": "",
+      "linkDisabled": true,
+      "completed": "2026-11"
     }
   ]
 }
